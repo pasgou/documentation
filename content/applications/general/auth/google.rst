@@ -5,7 +5,7 @@ Google Sign-In Authentication
 The **Google Sign-In Authentication** is a useful function that allows your users to sign in to Odoo
 with their Google account.
 
-This is particularly helpful if your organization uses Google Workforce and you want the employees
+This is particularly helpful if your organization uses Google Workspace and you want the employees
 within your organization to connect to Odoo with their Google Accounts.
 
 .. _google-sign-in/configuration:
